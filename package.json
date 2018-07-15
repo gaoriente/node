@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "git-download": "0.0.2",
     "knex": "^0.15.1",
     "mysql": "^2.15.0",
     "restify": "^7.2.1",
